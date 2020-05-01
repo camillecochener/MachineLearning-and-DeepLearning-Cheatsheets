@@ -1,7 +1,7 @@
 # Machine & Deep Learning Cheatsheets
 [In construction] <br>
 
-<p align='justify'>This directory contains my memo sheets on Machine & Deep Learning that I made using my courses in the Specialized Master in Big Data at Télécom Paris and online courses.</p>
+<p align='justify'>This directory contains the memo sheets I made during my year in the Post Master's degree in Big Data at Télécom Paris completed with online ressources.</p>
 
 <p align="center">
   <img src="https://solution44.com/resources/vs/1.png" height="200"/>
